@@ -1,0 +1,17 @@
+ACTIVO,,,PASIVO,
+Inmovilizado,,,Emisión de Bonos,
+Préstamos y Disposiciones
+Iniciales
+Gastos Iniciales (*),750.000.000
+250.000,,Bonos Serie AS
+Bonos Serie AG
+Bonos Serie B
+Bonos Serie C
+Bonos Serie D(**),436.300.000
+291.200.000
+15.000.000
+7.500.000
+18.800.000
+Activo Circulante,,,Deudas a Largo Plazo,
+Cuenta Tesorería,18.800.000,,Préstamo Gastos Iniciales,250.000
+Total,769.050.000,,Total,769.050.000

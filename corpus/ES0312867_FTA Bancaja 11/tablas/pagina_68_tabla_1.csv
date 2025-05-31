@@ -1,0 +1,19 @@
+Cartera de préstamos hipotecarios al día 30.06.2007
+Clasificación por la fecha amortización final,,,
+Año de Amortización Final,Préstamos
+hipotecarios
+%,Principal pendiente
+(euros) %,Vida Residual mp*
+Meses Fecha
+2043,43 0,29,6.733.484,25 0,29,434,26 7/09/2043
+2044,54 0,36,10.070.024,78 0,44,446,63 17/09/2044
+2045,67 0,45,11.911.473,64 0,52,458,22 5/09/2045
+2046,2.665 17,81,463.328.347,04 20,27,471,30 8/10/2046
+2047,210 1,40,37.515.485,01 1,64,474,23 5/01/2047
+Total 14.964 100,00 2.285.398.080,95 100,00,,,
+Media ponderada: 376,69 20/11/2038
+Media simple: 365,77 22/12/2037
+Mínimo: 8,18 5/03/2008
+Máximo: 474,55 15/01/2047
+* Vida residual a la fecha de vencimiento final (en meses y fecha) son medias ponderadas por el principal pendiente de
+los préstamos hipotecarios que tienen el vencimiento final en el año correspondiente.,,,

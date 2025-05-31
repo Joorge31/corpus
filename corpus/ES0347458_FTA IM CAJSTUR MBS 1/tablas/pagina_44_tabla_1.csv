@@ -1,0 +1,24 @@
+IM CAJASTUR MBS 1, FTA,,,,
+Escenario,,5% TAA,8% TAA,12% TAA
+Bono A,Vida Media (años)
+TIR
+Duración,5,50
+1,2432%
+5,18,4,36
+1,2432%
+4,14,3,37
+1,2432%
+3,23
+Bono B,Vida Media (años)
+TIR
+Duración,17,10
+1,551%
+14,80,14,06
+1,551%
+12,44,11,10
+1,551%
+10,05
+Tasa de fallido neto acumulado del
+Fondo,,1,956%,1,537%,1,159%
+Fecha de Liquidación Anticipada
+del Fondo,,20/04/2029,20/02/2026,20/12/2022

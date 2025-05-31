@@ -1,0 +1,27 @@
+Deudor,Número de
+préstamos,Número de
+préstamos
+(% del total),Principal
+pendiente (EUR),Principal pendiente
+(% del total)
+Deudor 1,28
+10
+10
+6
+5
+5
+5
+3
+3
+3,0,05%,105.351,0,01%
+Deudor 2,,0,02%,48.787,0,01%
+Deudor 3,,0,02%,70.574,0,01%
+Deudor 4,,0,01%,53.433,0,01%
+Deudor 5,,0,01%,39.274,0,01%
+Deudor 6,,0,01%,59.813,0,01%
+Deudor 7,,0,01%,68.172,0,01%
+Deudor 8,,0,00%,37.862,0,01%
+Deudor 9,,0,00%,25.861,0,00%
+Deudor 10,,0,00%,34.605,0,00%
+Resto deudores,61.228,99,87%,729.319.413,99,93%
+Total,61.306,100,00%,729.863.146,100,00%

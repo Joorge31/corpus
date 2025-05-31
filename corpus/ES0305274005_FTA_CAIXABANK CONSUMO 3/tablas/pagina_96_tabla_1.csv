@@ -1,0 +1,19 @@
+,- Cuotas sin interés (el importe de las cuotas se obtiene dividiendo el capital por el número de
+cuotas).
+Préstamo Hipotecario,Normalmente constantes durante toda la vida de la operación (sistema francés) mientras no se
+modifique el tipo de interés. Por regla general el pago de los intereses por principal, se realiza
+por vencido.
+La periodicidad de la cuota habitualmente es mensual, aunque excepcionalmente pueden
+establecerse otras periodicidades (trimestral, semestral o anual).
+Excepcionalmente también pueden concederse otras formas de amortización: amortización lineal,
+etc.
+Disposiciones de
+Crédito Hipotecario,Normalmente constantes durante toda la vida de la operación (sistema francés) mientras no se
+modifique el tipo de interés. Por regla general el pago de los intereses por principal, se realiza
+por vencido.
+La periodicidad de la cuota habitualmente es mensual.
+El cliente puede, en cualquier momento, variar la cuota mensual que resulte de cada una de las
+disposiciones, tanto a la baja como al alza, mediante la modificación del plazo de amortización o la
+inclusión de cuotas de carencia (sin superar el plazo máximo contratado del crédito).
+Aunque para cada disposición se calcula un cuadro de amortización, las cuotas se suman para cada
+vencimiento y se considerarán como un todo indivisible a efectos de cobro.

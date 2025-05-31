@@ -1,0 +1,10 @@
+,Importe efectivo,,,
+Clase 1,,Cupón,Amortización,Moody’s
+,(euros),,,
+,,,,
+A1a,217.800.000,EURIBOR 3m + 0,15%,Pass-through***,Aaa
+A1b*,57.200.000,EURIBOR 3m + 0,21%,Pass-through,Aaa
+Valor IO-1,2.476.509,1,5% sobre Nocional**,N.A,Aaa
+B1,4.600.000,EURIBOR 3m + 0,37%,Pass-through,A2
+C1,3.700.000,EURIBOR 3m + 0,75%,Pass-through,Baa2
+D1,2.700.000,EURIBOR 3m + 3,50%,Pass-through,Ba2

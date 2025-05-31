@@ -1,0 +1,11 @@
+Mortgage Shares,Bonds A
+(LTV <= 80%),Bonds B
+Mortgage Transfer Certificates,Bonds C
+(LTV > 80%),Bonds D
+,
+Initial Expenses paid,Initial Expenses Loan
+,
+Treasury,Participative Loan (Reserve Fund)
+,
+Amounts for unbalance,Available Subordinated Loan
+Swap Contract,Swap Contract

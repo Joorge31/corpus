@@ -1,0 +1,18 @@
+,RESOLUTION,,,DESCRIPTION,
+Tranche 1,,,Includes all applications with a score below the cut-off rate.,,
+Tranche 2,,,Includes all application with a score above the cut-off rate.,,
+AC,,,ACCEPTED
+➢ The application exceeds the scoring cut-off rate and complies with all
+risk rules.,,
+RV,,,LEVEL 1 REVIEW
+➢ The application exceeds the scoring cut-off rate, but does not comply
+with rules of less dedication (i.e. rules which are less important than level 2
+review rules).
+LEVEL 2 REVIEW
+➢ The application exceeds the scoring cut-off rate, but does not comply
+with rules of more dedication (i.e. rules which are more important than
+level 1 review rules).,,
+RC,,,REJECTED
+➢ The application does not exceed the scoring cut-off rate and/or does not
+comply with more serious rules (i.e. exclusion rules which require the
+refusal of the transaction regardless of the score).,,

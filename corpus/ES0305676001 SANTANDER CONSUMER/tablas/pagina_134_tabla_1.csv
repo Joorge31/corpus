@@ -1,0 +1,12 @@
+,Scoring,,Customer type,,,Scope of application,,,,Area of,,,Implementation,,,Development and,
+,model,,,,,,,,,application,,,date,,,manager,
+,ANV3,,,Individual,,,New car,,,Financing,,,Nov-14,,,External – FICO,
+AUS3,,,Individual,,,Used car,,,Financing,,,May – 19,,,External –
+Experian,,
+ATN2,,,,Self-employed,,New/ Used Car,,,,Financing /,,May -19,,,,External –,
+,,,,worker,,,,,,Leasing,,,,,,Experian,
+PME1,,,Legal entity,,,Renting companies not
+included in the portfolio,,,Renting,,,Jun – 10,,,External –
+Experian,,
+PME3,,,Legal entity,,,,Other companies not included,,,Financing /,,Ago – 14,,,,External –,
+,,,,,,,in the portfolio,,,Leasing,,,,,,Experian,

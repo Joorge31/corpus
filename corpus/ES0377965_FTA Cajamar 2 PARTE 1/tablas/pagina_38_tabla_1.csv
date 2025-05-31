@@ -1,0 +1,19 @@
+,,,,
+TDA CAJAMAR 2, FONDO DE TITULIZACION DE ACTIVOS,,,,
+EURIBOR 3 MESES 2,125%,,,,
+Escenario,,5% TAA,10% TAA*,15% TAA
+Bono A1,Vida media (años),1,343,0,882,0,668
+,TIR,2,22%,2,22%,2,22%
+Bono A2,Vida media (años),7,671,5,096,3,748
+,TIR,2,29%,2,29%,2,29%
+Bono A3**,Vida media (años),17,472,13,320,10,092
+,TIR,2,33%,2,33%,2,33%
+Valor NAS-IO,Vida media (años),-,-,-
+,TIR,4,44%,4,44%,4,44%
+Bono B,Vida media (años),13,900,10,101,7,498
+,TIR,2,48%,2,48%,2,48%
+Bono C,Vida media (años),13,900,10,101,7,498
+,TIR,2,84%,2,84%,2,84%
+Bono D,Vida media (años),13,900,10,101,7,498
+,TIR,4,77%,4,77%,4,77%
+Fecha de Liquidación Anticipada del Fondo,,27/12/2023,27/12/2019,27/06/2016

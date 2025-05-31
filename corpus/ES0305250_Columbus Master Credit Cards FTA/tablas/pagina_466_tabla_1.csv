@@ -1,0 +1,23 @@
+[Type of transaction:],[Interest rate swap/Interest Rate Collar/Interest
+Rate Cap/other]
+[Documentation:],[ISDA/CMOF/Other]
+[Hedging Counterparty[Class A/Class
+B/Class/C]:,[]
+[Calculation Agent:],[]
+[Notional Amount:],[]
+[Trade Date:],[]
+[Effective Date:],[]
+[Termination Date:],[]
+[Fixed Amounts:],[]
+[Fixed Rate Payer:],[]
+[Fixed Rate Payer Payment Dates:],[]
+[Floating Amounts:],[]
+[Floating Rate Payer:],[]
+[[Cap/Floor]Rate:],[]
+[Floating Rate Payer Payment Dates:],[]
+[Floating Rate for initial Calculation
+Period:],[]
+[Floating Rate Option:],[]
+[Designated Maturity:],[]
+[Floating Rate Day Count Fraction:],[]
+[Reset Dates:],[]

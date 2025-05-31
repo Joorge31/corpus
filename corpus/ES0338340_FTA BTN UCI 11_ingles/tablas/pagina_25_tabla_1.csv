@@ -1,0 +1,5 @@
+% LTV,T=18 months,T=24 months,T=36 months,T=48 months
+>80%,PH x 100%,PH x 100%,PH x 100%,PH x 100%
+80%-60%,PH x 50%,PH x 75%,PH x 100%,PH x 100%
+60%-40%,PH x 25%,PH x 50%,PH x 75%,PH x 100%
+<40%,0%,0%,PH x 25%,PH x 50%

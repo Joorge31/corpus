@@ -1,0 +1,23 @@
+Principal sobre el que se calculan los intereses del Periodo de Devengo en euros: 100.000,,,,,,,,
+,,,,,,,,
+,,,,,,,,Euros
+Intereses devengados por un Bono A1a:,,100.000,x,91/360,x,2,321%,=,586,70
+Intereses devengados por un Bono B1:,,100.000,x,91/360,x,2,541%,=,642,31
+Intereses devengados por un Bono C1:,,100.000,x,91/360,x,2,921%,=,738,36
+Intereses devengados por un Bono D1:,,100.000,x,91/360,x,5,671%,=,1433,50
+,,,,,,,,
+Intereses devengados por un Bono A1b,,,,,,,,
+Pago IO-1 (calculado sobre su nocional),,100.000,x,90/360,x,1,5%,=,375
+Intereses del Bono A1b tras segregación,,100.000,x,91/360,x,2,381%,=,601,86
+Total,,,,,,,,976,86
+,,,,,,,,
+Intereses devengados por un Bono A2a:,,100.000,x,91/360,x,2,331%,=,589,23
+Intereses devengados por un Bono B2:,,100.000,x,91/360,x,2,621%,=,662,53
+Intereses devengados por un Bono C2:,,100.000,x,91/360,x,3,021%,=,763,64
+Intereses devengados por un Bono D2:,,100.000,x,91/360,x,6,171%,=,1559,89
+,,,,,,,,
+Intereses devengados por un Bono A2b,,,,,,,,
+Pago IO-2 (calculado sobre su nocional),,100.000,x,90/360,x,1,5%,=,375
+Intereses del Bono A2b tras segregación,,100.000,x,91/360,x,2,411%,=,609,45
+Total,,,,,,,,984,45
+,,,,,,,,

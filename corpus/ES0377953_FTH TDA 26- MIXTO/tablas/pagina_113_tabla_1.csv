@@ -1,0 +1,24 @@
+,,,,,
+BALANCE DEL FONDO (en su origen),,,,,
+ACTIVO,,,,PASIVO,
+,,,,,
+Gastos Iniciales 1 Activados,900.000,00,,,,
+Gastos Iniciales 2 Activados,100.000,00,,,,
+,,,,,
+Participaciones Hipotecarias,824.999.999,77,,,Bonos 1-A1,165.000.000,00
+,,,,Bonos 1-A2,636.400.000,00
+,,,,Bonos 1-B,18.200.000,00
+,,,,Bonos 1-C,5.400.000,00
+,,,,Bonos 1-D,6.200.000,00
+,,,,,
+Certificados de Transmisión de Hipoteca,74.999.999,57,,,Bonos 2-A,70.100.000,00
+,,,,Bonos 2-B,4.900.000,00
+,,,,Bonos 2-C,1.900.000,00
+,,,,,
+,,,,,
+Tesorería,,,,Préstamo Gastos Iniciales 1,900.000,00
+Fondo de Reserva 1,6.200.000,00,,,Préstamo Gastos Iniciales 2,100.000,00
+Fondo de Reserva 2,1.900.000,00,,,,
+Otros recursos depositados 1,0,23,,,,
+Otros recursos depositados 2,0,43,,,,
+TOTAL ACTIVO,,909.100.000,00,,TOTAL PASIVO,909.100.000,00

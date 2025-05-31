@@ -1,0 +1,15 @@
+NIVELES,Personal,Real,Total,Descubierto,Tarjetas
+Nivel 1. Grupo 2 Operaciones,3.000.000,6.000.000,7.000.000,300.000,
+Nivel 2. Directores Financieros,2.000.000,4.500.000,5.000.000,200.000,
+Nivel 3. Grupo 1 Operaciones,1.500.000,3.500.000,3.500.000,150.000,
+Nivel 4. Responsables y Apoderados
+Financieros,500.000,1.500.000,1.500.000,100.000,
+Nivel 5. Directores de Zona,-,-,-,12.000,-
+Nivel 6. Directores de Oficina,,,,,
+6.1 Oficinas 175%,21.000,175.000,196.000,7.000,3.000
+6.2 Oficinas 150%,18.000,150.000,168.000,6.000,3.000
+6.3 Oficinas 125%,15.000,125.000,140.000,5.000,3.000
+6.4 Oficinas 100%,12.000,100.000,112.000,4.000,3.000
+Nivel 7. Subdirectores de Oficinas
+Principales,-,-,-,3.000,-
+Nivel 8. Subdirectores de Oficina,-,-,-,1.000,-

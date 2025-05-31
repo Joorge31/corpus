@@ -1,0 +1,4 @@
+,Deuda Total Acuerdo,,,Antigüedad deuda (1),
+>= 100.000 €,,,60 días,,
+>= 1.000 y < 100.000 €,,,90 días,,
+< 1.000 €,,,--- (2),,

@@ -1,0 +1,21 @@
+Principal in Euro on which to calculate the interests of the Accrual Period: 100,000,,,,,,,,
+,,,,,,,,Euro
+Interest accrued by an A1a Bond,,100.000,x,91/360,x,2.321%,=,586.70
+Interest accrued by a B1 Bond,,100.000,x,91/360,x,2.541%,=,642.31
+Interest accrued by a C1 Bond,,100.000,x,91/360,x,2.921%,=,738.36
+Interest accrued by a D1 Bond,,100.000,x,91/360,x,5.671%,=,1433.50
+,,,,,,,,
+Interest accrued by an A1b Bond,,,,,,,,
+Payment IO-1 (calculated over notional),,100.000,x,90/360,x,1.5%,=,375
+Interest accrued by an A1b Bond after segregation,,100.000,x,91/360,x,2.381%,=,601.86
+Total,,,,,,,,976,86
+Interest accrued by an A2a Bond,,100.000,x,91/360,x,2.331%,=,589.23
+Interest accrued by a B2 Bond,,100.000,x,91/360,x,2.621%,=,662.53
+Interest accrued by a C2 Bond,,100.000,x,91/360,x,3.021%,=,763.64
+Interest accrued by a D2 Bond,,100.000,x,91/360,x,6.171%,=,1559.89
+,,,,,,,,
+Interest accrued by an A2b Bond,,,,,,,,
+Payment IO-2 (calculated base don notional),,100.000,x,90/360,x,1.5%,=,375
+Interest accrued by an A2b Bond after segregation,,100.000,x,91/360,x,2.411%,=,609.45
+Total,,,,,,,,984.45
+,,,,,,,,

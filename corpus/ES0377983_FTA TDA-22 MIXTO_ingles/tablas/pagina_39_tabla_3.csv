@@ -1,0 +1,43 @@
+Scenario,,,,
+,,5% CPR,10% CPR,15% CPR
+Class 2 Bonds,,,,
+,,,,
+,Average Life (years),6.34
+2.384%,3.95
+2.384%,2.84
+2.384%
+Bono A2a,,,,
+,Yield,,,
+,,,,
+,Average Life (years),19.19
+2.467%,13.66
+2.467%,10.21
+2.467%
+Bono A2b*,,,,
+,Yield,,,
+,,,,
+,Average Life (years),15.73
+2.684%,10.87
+2.684%,7.91
+2.684%
+Bono B2,,,,
+,Yield,,,
+,,,,
+,Average Life (years),15.73
+3.098%,10.87
+3.098%,7.91
+3.098%
+Bono C2,,,,
+,Yield,,,
+,,,,
+,Average Life (years),15.73
+6.405%,10.87
+6.405%,7.91
+6.404%
+Bono D2,,,,
+,Yield,,,
+,,,,
+,,28/03/2025,30/12/2019,28/06/2016
+Early Liquidation of the Fund,,,,
+(Cleanup Call),,,,
+,,,,

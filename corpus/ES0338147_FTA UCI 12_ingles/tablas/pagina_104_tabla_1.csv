@@ -1,0 +1,8 @@
+% LTV,T= 18
+MONTHS,T= 24
+MONTHS,T= 36
+MONTHS,T= 48
+MONTHS
+80% - 60%,ML x 50%,ML x 75%,ML x 100%,MLx 100%
+60% - 40%,ML x 25%,ML x 50%,ML x 75%,ML x 100%
+< 40%,0%,0%,ML x 25%,ML x 50%

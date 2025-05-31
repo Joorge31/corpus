@@ -1,0 +1,16 @@
+,ACTIVO,,,,PASIVO,,
+Inmovilizado,,,,Emisión de Bonos,,,
+Préstamos Hipotecarios
+Gastos Iniciales (*),,700.000.000
+871.000,,Bonos Serie A1
+Bonos Serie A2
+Bonos Serie B
+Bonos Serie C
+Bonos Serie D (***),,175.000.000
+492.800.000
+24.900.000
+7.300.000
+10.500.000,
+Activo Circulante,,700.871.000,,Deudas a Largo Plazo,,710.500.000,
+Cuenta Tesorería (**),,10.500.000,,Préstamo Gastos Iniciales (**),,871.000,
+Total ACTIVO,,711.371.000,,Total PASIVO,,711.371.000,

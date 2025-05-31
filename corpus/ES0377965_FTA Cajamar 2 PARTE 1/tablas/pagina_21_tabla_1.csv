@@ -1,0 +1,11 @@
+,,,,,
+Serie,Importe efectivo (euros),Cupón,Amortización,Fitch,S&P
+,,,,,
+A1,185.000.000,3m Euribor + 0,04%-0,08%,Pass-through,AAA,AAA
+A2,575.000.000,3m Euribor + 0,10%-0,17%,Pass-through,AAA,AAA
+A3*,200.000.000,3m Euribor + 0,12%-0,25%,Pass-through,AAA,AAA
+Valores,7.500.000,1,30% sobre Nocional**,N/A,AAA,AAA
+NAS-IO,,,,,
+B,19.500.000,3m Euribor + 0,16%-0,40%,Pass-through,A+,A
+C,5.000.000,3m Euribor + 0,20%-0,85%,Pass-through,A-,BBB
+D,15.500.000,3m Euribor + 1,75%-2,75%,Pass-through,BB+,BB-

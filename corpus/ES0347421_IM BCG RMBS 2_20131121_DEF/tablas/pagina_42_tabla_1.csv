@@ -1,0 +1,11 @@
+ESCENARIO TAA 0% TAA 2% TAA 5%,,,,
+Bono A,Vida Media (años),13,50,10,65,7,84
+,TIR,0,43%,0,43%,0,43%
+,Duración,12,92,10,26,7,61
+Préstamo B,Vida Media (años),29,83,26,25,21,16
+,TIR,0,53%,0,53%,0,53%
+,Duración,27,45,24,38,19,91
+Tasa de Fallido Neto Acumulado del Fondo,,2,79%,2,22%,1,63%
+Fecha de vencimiento de los Bonos,,22/09/2043,22/02/2040,22/01/2035
+Fecha de Liquidación Anticipada,,22/09/2043,22/02/2040,22/01/2035
+del Fondo,,,,

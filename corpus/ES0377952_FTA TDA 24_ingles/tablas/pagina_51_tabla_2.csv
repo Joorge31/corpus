@@ -1,0 +1,59 @@
+TDA 24, FONDO DE TITULIZACION DE ACTIVOS,,,,
+3-MONTH EURIBOR 2.350%,,,,
+Scenario,,10% TACP,12% TACP,15% TACP
+,Average life (yrs),3.97
+2.535%
+3.61,3.46
+2.536%
+3,18,2.89
+2.536%
+2.69
+,IRR,,,
+Series A1,,,,
+,Duration (years),,,
+,Average life (yrs),13.21
+2.591%
+10.94,11.80
+2.591%
+9.94,10.10
+2.591%
+8.69
+Series A2*,IRR,,,
+,Duration (years),,,
+,Average life (yrs),-
+3.345%
+1.81,-
+3.345%
+1.81,-
+3.345%
+1.81
+NAS-IO securities (**),IRR,,,
+,Duration (years),,,
+,Average life (yrs),10.08
+2.767%
+8.50,8,87
+2,767%
+7,60,7.52
+2,767%
+6,56
+Series B,IRR,,,
+,Duration (years),,,
+,Average life (yrs),10.08
+3.026%
+8.37,8,87
+3.026%
+7,49,7.52
+3.026%
+6.48
+Series C,IRR,,,
+,Duration (years),,,
+,Average life (yrs),10.08
+4.223%
+7.81,8,87
+4.223%
+7,04,7.52
+4.223%
+6.13
+Series D,IRR,,,
+,Duration (years),,,
+Fund Early Liquidation Date,,23-03-2020,24-12-2018,22-12-2016

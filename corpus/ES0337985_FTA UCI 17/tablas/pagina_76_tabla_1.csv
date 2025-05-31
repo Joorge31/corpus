@@ -1,0 +1,12 @@
+TIPO DE PRÉSTAMO,Nº
+PRÉSTAMOS,PORCENTAJE
+(EN NÚMERO),IMPORTE,,PORCENTAJE,
+,,,,,(EN,
+,,,,,IMPORTE),
+Préstamos Hipotecarios A,8.623,73,62%,1.355.558.497,06,90,84%,,
+Préstamos Hipotecarios B,369,3,15%,62.974.461,92,4,22%,,
+Préstamos Asociados No
+Hipotecarios,2.196,18,75%,49.763.538,37,3,33%,,
+Préstamos Asociados con
+Hipoteca de Segundo Rango,525,4,48%,23.880.670,21,1,60%,,
+TOTAL,11.713,100%,1.492.177.167,56,100%,,

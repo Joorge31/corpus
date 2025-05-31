@@ -1,0 +1,23 @@
+Año
+1,Inversión crediticia segmento de préstamos hipotecarios,,Activos
+en suspenso
+(saldo)
+8
+,Número Principal % Tipo
+Préstamos pendiente Interés
+vencimiento nominal
+2 3 8,Activo Inversión % Tasa
+dudoso bruta Morosidad
+(saldo) (saldo)
+5 6 7,
+31.05.2005,182.343 16.122,56 2,93,29,57 16.152,13 0,18,0,99
+31.12.2004,176.500 15.029,62 2,94,15,85 15.045,13 0,11,0,61
+31.12.2003,162.432 13.966,21 3,03,22,12 13.988,33 0,16,0,29
+31.12.2002,147.465 12.389,75 4,10,19,46 12.409,21 0,16,0,20
+31.12.2001,129.817 9.544,45 4,80,20,20 9.564,74 0,21,0,66
+31.12.2000,108.793 7.372,97 5,32,18,51 7.391,49 0,25,1,93
+Saldos en millones de euros
+4: Tipo de interés nominal medio ponderado por el principal pendiente de vencimiento
+5: Activo clasificado como dudoso con arreglo a la Circular 4/1991 del Banco de España
+6: 3+5
+7: 5/6*100,,,
